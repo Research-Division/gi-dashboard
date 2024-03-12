@@ -1,0 +1,1306 @@
+stateAbbrev,Organization,benefit2,benefit_type
+AK,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+AK,Custom Analysis,Child Care Subsidy (CCDF),2
+AK,Custom Analysis,Child Tax Credit (CTC),3
+AK,Custom Analysis,Earned Income Tax Credit (EITC),4
+AK,Custom Analysis,Free or Reduced Price School Meals,5
+AK,Custom Analysis,Head Start/Early Head Start,6
+AK,Custom Analysis,Health Insurance Marketplace Subsidy,7
+AK,Custom Analysis,Section 8 Housing Voucher,8
+AK,Custom Analysis,Social Security,9
+AK,Custom Analysis,Social Security Disability Insurance (SSDI),10
+AK,Custom Analysis,State-Funded Pre-Kindergarten,11
+AK,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+AK,Custom Analysis,Supplemental Security Income (SSI),13
+AK,Custom Analysis,Unemployment Insurance,14
+AK,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+AK,Custom Analysis,DenaliCare (Medicaid for Adults),16
+AK,Custom Analysis,Denali Kidcare (Medicaid for Children/CHIP),17
+AK,Custom Analysis,Alaska Temporary Assistance Program (TANF),18
+AL,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+AL,Custom Analysis,Child Care Subsidy (CCDF),2
+AL,Custom Analysis,Child Tax Credit (CTC),3
+AL,Custom Analysis,Earned Income Tax Credit (EITC),4
+AL,Custom Analysis,Free or Reduced Price School Meals,5
+AL,Custom Analysis,Head Start/Early Head Start,6
+AL,Custom Analysis,Health Insurance Marketplace Subsidy,7
+AL,Custom Analysis,Section 8 Housing Voucher,8
+AL,Custom Analysis,Social Security,9
+AL,Custom Analysis,State-Funded Pre-Kindergarten,11
+AL,Custom Analysis,Food Assistance Program (SNAP),12
+AL,Custom Analysis,Unemployment Insurance,14
+AL,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+AL,Custom Analysis,Medicaid for Adults,16
+AL,Custom Analysis,All Kids (Medicaid for Children/CHIP),17
+AL,Custom Analysis,Family Assistance Program (TANF),18
+AR,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+AR,Custom Analysis,Child Care Subsidy (CCDF),2
+AR,Custom Analysis,Child Tax Credit (CTC),3
+AR,Custom Analysis,Earned Income Tax Credit (EITC),4
+AR,Custom Analysis,Free or Reduced Price School Meals,5
+AR,Custom Analysis,Head Start/Early Head Start,6
+AR,Custom Analysis,Health Insurance Marketplace Subsidy,7
+AR,Custom Analysis,Section 8 Housing Voucher,8
+AR,Custom Analysis,Social Security,9
+AR,Custom Analysis,Social Security Disability Insurance (SSDI),10
+AR,Custom Analysis,State-Funded Pre-Kindergarten,11
+AR,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+AR,Custom Analysis,Supplemental Security Income (SSI),13
+AR,Custom Analysis,Unemployment Insurance,14
+AR,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+AR,Custom Analysis,Health Care (Medicaid for Adults),16
+AR,Custom Analysis,AR Kids First B (Medicaid for Children/CHIP),17
+AR,Custom Analysis,Transitional Employment Assistance (TANF),18
+AZ,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+AZ,Custom Analysis,Child Care Subsidy (CCDF),2
+AZ,Custom Analysis,Child Tax Credit (CTC),3
+AZ,Custom Analysis,Earned Income Tax Credit (EITC),4
+AZ,Custom Analysis,Free or Reduced Price School Meals,5
+AZ,Custom Analysis,Head Start/Early Head Start,6
+AZ,Custom Analysis,Health Insurance Marketplace Subsidy,7
+AZ,Custom Analysis,Section 8 Housing Voucher,8
+AZ,Custom Analysis,Social Security,9
+AZ,Custom Analysis,Social Security Disability Insurance (SSDI),10
+AZ,Custom Analysis,State-Funded Pre-Kindergarten,11
+AZ,Custom Analysis,Nutrition Assistance (SNAP),12
+AZ,Custom Analysis,Supplemental Security Income (SSI),13
+AZ,Custom Analysis,Unemployment Insurance,14
+AZ,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+AZ,Custom Analysis,Arizona Health Care Cost Containment System (Medicaid for Adults),16
+AZ,Custom Analysis,KidsCare (Medicaid for Children/CHIP),17
+AZ,Custom Analysis,EMPOWER (TANF),18
+CA,BREATHE (Los Angeles County),Child and Dependent Care Tax Credit (CDCTC),1
+CA,BREATHE (Los Angeles County),Child Care Subsidy (CCDF),2
+CA,BREATHE (Los Angeles County),Child Tax Credit (CTC),3
+CA,BREATHE (Los Angeles County),Earned Income Tax Credit (EITC),4
+CA,BREATHE (Los Angeles County),Free or Reduced Price School Meals,5
+CA,BREATHE (Los Angeles County),Head Start/Early Head Start,6
+CA,BREATHE (Los Angeles County),Health Insurance Marketplace Subsidy,7
+CA,BREATHE (Los Angeles County),Section 8 Housing Voucher,8
+CA,BREATHE (Los Angeles County),Social Security,9
+CA,BREATHE (Los Angeles County),Social Security Disability Insurance (SSDI),10
+CA,BREATHE (Los Angeles County),State-Funded Pre-Kindergarten,11
+CA,BREATHE (Los Angeles County),CalFresh (SNAP),12
+CA,BREATHE (Los Angeles County),Supplemental Security Income (SSI),13
+CA,BREATHE (Los Angeles County),Unemployment Insurance,14
+CA,BREATHE (Los Angeles County),"Women, Infants and Children Nutrition Program (WIC)",15
+CA,BREATHE (Los Angeles County),Medi-Cal for Adults (Medicaid for Adults),16
+CA,BREATHE (Los Angeles County),Medi-Cal for Children (Medicaid for Children/CHIP),17
+CA,BREATHE (Los Angeles County),CalWorks (TANF),18
+CA,City of Alameda,Child and Dependent Care Tax Credit (CDCTC),1
+CA,City of Alameda,Child Care Subsidy (CCDF),2
+CA,City of Alameda,Child Tax Credit (CTC),3
+CA,City of Alameda,Earned Income Tax Credit (EITC),4
+CA,City of Alameda,Free or Reduced Price School Meals,5
+CA,City of Alameda,Head Start/Early Head Start,6
+CA,City of Alameda,Health Insurance Marketplace Subsidy,7
+CA,City of Alameda,Section 8 Housing Voucher,8
+CA,City of Alameda,Social Security,9
+CA,City of Alameda,Social Security Disability Insurance (SSDI),10
+CA,City of Alameda,State-Funded Pre-Kindergarten,11
+CA,City of Alameda,CalFresh (SNAP),12
+CA,City of Alameda,Supplemental Security Income (SSI),13
+CA,City of Alameda,Unemployment Insurance,14
+CA,City of Alameda,"Women, Infants and Children Nutrition Program (WIC)",15
+CA,City of Alameda,Medi-Cal for Adults (Medicaid for Adults),16
+CA,City of Alameda,Medi-Cal for Children (Medicaid for Children/CHIP),17
+CA,City of Alameda,CalWorks (TANF),18
+CA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+CA,Custom Analysis,Child Care Subsidy (CCDF),2
+CA,Custom Analysis,Child Tax Credit (CTC),3
+CA,Custom Analysis,Earned Income Tax Credit (EITC),4
+CA,Custom Analysis,Free or Reduced Price School Meals,5
+CA,Custom Analysis,Head Start/Early Head Start,6
+CA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+CA,Custom Analysis,Section 8 Housing Voucher,8
+CA,Custom Analysis,Social Security,9
+CA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+CA,Custom Analysis,State-Funded Pre-Kindergarten,11
+CA,Custom Analysis,CalFresh (SNAP),12
+CA,Custom Analysis,Supplemental Security Income (SSI),13
+CA,Custom Analysis,Unemployment Insurance,14
+CA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+CA,Custom Analysis,Medi-Cal for Adults (Medicaid for Adults),16
+CA,Custom Analysis,Medi-Cal for Children (Medicaid for Children/CHIP),17
+CA,Custom Analysis,CalWorks (TANF),18
+CA,Elevate MV,Child and Dependent Care Tax Credit (CDCTC),1
+CA,Elevate MV,Child Care Subsidy (CCDF),2
+CA,Elevate MV,Child Tax Credit (CTC),3
+CA,Elevate MV,Earned Income Tax Credit (EITC),4
+CA,Elevate MV,Free or Reduced Price School Meals,5
+CA,Elevate MV,Head Start/Early Head Start,6
+CA,Elevate MV,Health Insurance Marketplace Subsidy,7
+CA,Elevate MV,Section 8 Housing Voucher,8
+CA,Elevate MV,Social Security,9
+CA,Elevate MV,Social Security Disability Insurance (SSDI),10
+CA,Elevate MV,State-Funded Pre-Kindergarten,11
+CA,Elevate MV,CalFresh (SNAP),12
+CA,Elevate MV,Supplemental Security Income (SSI),13
+CA,Elevate MV,Unemployment Insurance,14
+CA,Elevate MV,"Women, Infants and Children Nutrition Program (WIC)",15
+CA,Elevate MV,Medi-Cal for Adults (Medicaid for Adults),16
+CA,Elevate MV,Medi-Cal for Children (Medicaid for Children/CHIP),17
+CA,Elevate MV,CalWorks (TANF),18
+CA,Hamilton Families,Child and Dependent Care Tax Credit (CDCTC),1
+CA,Hamilton Families,Child Care Subsidy (CCDF),2
+CA,Hamilton Families,Child Tax Credit (CTC),3
+CA,Hamilton Families,Earned Income Tax Credit (EITC),4
+CA,Hamilton Families,Free or Reduced Price School Meals,5
+CA,Hamilton Families,Head Start/Early Head Start,6
+CA,Hamilton Families,Health Insurance Marketplace Subsidy,7
+CA,Hamilton Families,Section 8 Housing Voucher,8
+CA,Hamilton Families,Social Security,9
+CA,Hamilton Families,Social Security Disability Insurance (SSDI),10
+CA,Hamilton Families,State-Funded Pre-Kindergarten,11
+CA,Hamilton Families,CalFresh (SNAP),12
+CA,Hamilton Families,Supplemental Security Income (SSI),13
+CA,Hamilton Families,Unemployment Insurance,14
+CA,Hamilton Families,"Women, Infants and Children Nutrition Program (WIC)",15
+CA,Hamilton Families,Medi-Cal for Adults (Medicaid for Adults),16
+CA,Hamilton Families,Medi-Cal for Children (Medicaid for Children/CHIP),17
+CA,Hamilton Families,CalWorks (TANF),18
+CA,United Way California Capital Region,Child and Dependent Care Tax Credit (CDCTC),1
+CA,United Way California Capital Region,Child Care Subsidy (CCDF),2
+CA,United Way California Capital Region,Child Tax Credit (CTC),3
+CA,United Way California Capital Region,Earned Income Tax Credit (EITC),4
+CA,United Way California Capital Region,Free or Reduced Price School Meals,5
+CA,United Way California Capital Region,Head Start/Early Head Start,6
+CA,United Way California Capital Region,Health Insurance Marketplace Subsidy,7
+CA,United Way California Capital Region,Section 8 Housing Voucher,8
+CA,United Way California Capital Region,Social Security,9
+CA,United Way California Capital Region,Social Security Disability Insurance (SSDI),10
+CA,United Way California Capital Region,State-Funded Pre-Kindergarten,11
+CA,United Way California Capital Region,CalFresh (SNAP),12
+CA,United Way California Capital Region,Supplemental Security Income (SSI),13
+CA,United Way California Capital Region,Unemployment Insurance,14
+CA,United Way California Capital Region,"Women, Infants and Children Nutrition Program (WIC)",15
+CA,United Way California Capital Region,Medi-Cal for Adults (Medicaid for Adults),16
+CA,United Way California Capital Region,Medi-Cal for Children (Medicaid for Children/CHIP),17
+CA,United Way California Capital Region,CalWorks (TANF),18
+CO,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+CO,Custom Analysis,Child Care Subsidy (CCDF),2
+CO,Custom Analysis,Child Tax Credit (CTC),3
+CO,Custom Analysis,Earned Income Tax Credit (EITC),4
+CO,Custom Analysis,Free or Reduced Price School Meals,5
+CO,Custom Analysis,Head Start/Early Head Start,6
+CO,Custom Analysis,Health Insurance Marketplace Subsidy,7
+CO,Custom Analysis,Section 8 Housing Voucher,8
+CO,Custom Analysis,Social Security,9
+CO,Custom Analysis,Social Security Disability Insurance (SSDI),10
+CO,Custom Analysis,State-Funded Pre-Kindergarten,11
+CO,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+CO,Custom Analysis,Supplemental Security Income (SSI),13
+CO,Custom Analysis,Unemployment Insurance,14
+CO,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+CO,Custom Analysis,Health First Colorado (Medicaid for Adults),16
+CO,Custom Analysis,Colorado CHP+ (Medicaid for Children/CHIP),17
+CO,Custom Analysis,Colorado Works (TANF),18
+CT,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+CT,Custom Analysis,Child Care Subsidy (CCDF),2
+CT,Custom Analysis,Child Tax Credit (CTC),3
+CT,Custom Analysis,Earned Income Tax Credit (EITC),4
+CT,Custom Analysis,Free or Reduced Price School Meals,5
+CT,Custom Analysis,Head Start/Early Head Start,6
+CT,Custom Analysis,Health Insurance Marketplace Subsidy,7
+CT,Custom Analysis,Section 8 Housing Voucher,8
+CT,Custom Analysis,Social Security,9
+CT,Custom Analysis,Social Security Disability Insurance (SSDI),10
+CT,Custom Analysis,State-Funded Pre-Kindergarten,11
+CT,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+CT,Custom Analysis,Supplemental Security Income (SSI),13
+CT,Custom Analysis,Unemployment Insurance,14
+CT,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+CT,Custom Analysis,HuskyHealth (Medicaid for Adults),16
+CT,Custom Analysis,HUSKY-B (Medicaid for Children/CHIP),17
+CT,Custom Analysis,JOBS FIRST (TANF),18
+DC,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+DC,Custom Analysis,Child Care Subsidy (CCDF),2
+DC,Custom Analysis,Child Tax Credit (CTC),3
+DC,Custom Analysis,Earned Income Tax Credit (EITC),4
+DC,Custom Analysis,Free or Reduced Price School Meals,5
+DC,Custom Analysis,Head Start/Early Head Start,6
+DC,Custom Analysis,Health Insurance Marketplace Subsidy,7
+DC,Custom Analysis,Section 8 Housing Voucher,8
+DC,Custom Analysis,Social Security,9
+DC,Custom Analysis,Social Security Disability Insurance (SSDI),10
+DC,Custom Analysis,State-Funded Pre-Kindergarten,11
+DC,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+DC,Custom Analysis,Supplemental Security Income (SSI),13
+DC,Custom Analysis,Unemployment Insurance,14
+DC,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+DC,Custom Analysis,Healthy Families (Medicaid for Adults),16
+DC,Custom Analysis,DC Healthy Families (Medicaid for Children/CHIP),17
+DC,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+DE,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+DE,Custom Analysis,Child Care Subsidy (CCDF),2
+DE,Custom Analysis,Child Tax Credit (CTC),3
+DE,Custom Analysis,Earned Income Tax Credit (EITC),4
+DE,Custom Analysis,Free or Reduced Price School Meals,5
+DE,Custom Analysis,Head Start/Early Head Start,6
+DE,Custom Analysis,Health Insurance Marketplace Subsidy,7
+DE,Custom Analysis,Section 8 Housing Voucher,8
+DE,Custom Analysis,Social Security,9
+DE,Custom Analysis,Social Security Disability Insurance (SSDI),10
+DE,Custom Analysis,State-Funded Pre-Kindergarten,11
+DE,Custom Analysis,Food Supplement Program (SNAP),12
+DE,Custom Analysis,Supplemental Security Income (SSI),13
+DE,Custom Analysis,Unemployment Insurance,14
+DE,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+DE,Custom Analysis,Diamond State Health Plan (Medicaid for Adults),16
+DE,Custom Analysis,Delaware Healthy Children's Program (Medicaid for Children/CHIP),17
+DE,Custom Analysis,A Better Chance (TANF),18
+FL,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+FL,Custom Analysis,Child Care Subsidy (CCDF),2
+FL,Custom Analysis,Child Tax Credit (CTC),3
+FL,Custom Analysis,Earned Income Tax Credit (EITC),4
+FL,Custom Analysis,Free or Reduced Price School Meals,5
+FL,Custom Analysis,Head Start/Early Head Start,6
+FL,Custom Analysis,Health Insurance Marketplace Subsidy,7
+FL,Custom Analysis,Section 8 Housing Voucher,8
+FL,Custom Analysis,Social Security,9
+FL,Custom Analysis,Social Security Disability Insurance (SSDI),10
+FL,Custom Analysis,State-Funded Pre-Kindergarten,11
+FL,Custom Analysis,Food Assistance Program (SNAP),12
+FL,Custom Analysis,Supplemental Security Income (SSI),13
+FL,Custom Analysis,Unemployment Insurance,14
+FL,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+FL,Custom Analysis,Statewide Medicaid Managed Care Program (Medicaid for Adults),16
+FL,Custom Analysis,Florida KidCare (Medicaid for Children/CHIP),17
+FL,Custom Analysis,Welfare Transition Program (TANF),18
+GA,Atlanta Abundant Birth Project,Child and Dependent Care Tax Credit (CDCTC),1
+GA,Atlanta Abundant Birth Project,Childcare and Parent Services (CAPS),2
+GA,Atlanta Abundant Birth Project,Child Tax Credit (CTC),3
+GA,Atlanta Abundant Birth Project,Earned Income Tax Credit (EITC),4
+GA,Atlanta Abundant Birth Project,Free or Reduced Price School Meals,5
+GA,Atlanta Abundant Birth Project,Head Start/Early Head Start,6
+GA,Atlanta Abundant Birth Project,Health Insurance Marketplace Subsidy,7
+GA,Atlanta Abundant Birth Project,Section 8 Housing Voucher,8
+GA,Atlanta Abundant Birth Project,Social Security,9
+GA,Atlanta Abundant Birth Project,Social Security Disability Insurance (SSDI),10
+GA,Atlanta Abundant Birth Project,State-Funded Pre-Kindergarten,11
+GA,Atlanta Abundant Birth Project,Food Stamp Program (SNAP),12
+GA,Atlanta Abundant Birth Project,Supplemental Security Income (SSI),13
+GA,Atlanta Abundant Birth Project,Unemployment Insurance,14
+GA,Atlanta Abundant Birth Project,"Women, Infants and Children Nutrition Program (WIC)",15
+GA,Atlanta Abundant Birth Project,Medicaid for Adults,16
+GA,Atlanta Abundant Birth Project,PeachCare for Kids (Medicaid for Children/CHIP),17
+GA,Atlanta Abundant Birth Project,Temporary Assistance for Needy Families (TANF),18
+GA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+GA,Custom Analysis,Childcare and Parent Services (CAPS),2
+GA,Custom Analysis,Child Tax Credit (CTC),3
+GA,Custom Analysis,Earned Income Tax Credit (EITC),4
+GA,Custom Analysis,Free or Reduced Price School Meals,5
+GA,Custom Analysis,Head Start/Early Head Start,6
+GA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+GA,Custom Analysis,Section 8 Housing Voucher,8
+GA,Custom Analysis,Social Security,9
+GA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+GA,Custom Analysis,State-Funded Pre-Kindergarten,11
+GA,Custom Analysis,Food Stamp Program (SNAP),12
+GA,Custom Analysis,Supplemental Security Income (SSI),13
+GA,Custom Analysis,Unemployment Insurance,14
+GA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+GA,Custom Analysis,Medicaid for Adults,16
+GA,Custom Analysis,PeachCare for Kids (Medicaid for Children/CHIP),17
+GA,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+GA,In Her Hands,Child and Dependent Care Tax Credit (CDCTC),1
+GA,In Her Hands,Childcare and Parent Services (CAPS),2
+GA,In Her Hands,Child Tax Credit (CTC),3
+GA,In Her Hands,Earned Income Tax Credit (EITC),4
+GA,In Her Hands,Free or Reduced Price School Meals,5
+GA,In Her Hands,Head Start/Early Head Start,6
+GA,In Her Hands,Health Insurance Marketplace Subsidy,7
+GA,In Her Hands,Section 8 Housing Voucher,8
+GA,In Her Hands,Social Security,9
+GA,In Her Hands,Social Security Disability Insurance (SSDI),10
+GA,In Her Hands,State-Funded Pre-Kindergarten,11
+GA,In Her Hands,Food Stamp Program (SNAP),12
+GA,In Her Hands,Supplemental Security Income (SSI),13
+GA,In Her Hands,Unemployment Insurance,14
+GA,In Her Hands,"Women, Infants and Children Nutrition Program (WIC)",15
+GA,In Her Hands,Medicaid for Adults,16
+GA,In Her Hands,PeachCare for Kids (Medicaid for Children/CHIP),17
+GA,In Her Hands,Temporary Assistance for Needy Families (TANF),18
+GA,The Atlanta Abundant Birth Project,Child and Dependent Care Tax Credit (CDCTC),1
+GA,The Atlanta Abundant Birth Project,Childcare and Parent Services (CAPS),2
+GA,The Atlanta Abundant Birth Project,Child Tax Credit (CTC),3
+GA,The Atlanta Abundant Birth Project,Earned Income Tax Credit (EITC),4
+GA,The Atlanta Abundant Birth Project,Free or Reduced Price School Meals,5
+GA,The Atlanta Abundant Birth Project,Head Start/Early Head Start,6
+GA,The Atlanta Abundant Birth Project,Health Insurance Marketplace Subsidy,7
+GA,The Atlanta Abundant Birth Project,Section 8 Housing Voucher,8
+GA,The Atlanta Abundant Birth Project,Social Security,9
+GA,The Atlanta Abundant Birth Project,Social Security Disability Insurance (SSDI),10
+GA,The Atlanta Abundant Birth Project,State-Funded Pre-Kindergarten,11
+GA,The Atlanta Abundant Birth Project,Food Stamp Program (SNAP),12
+GA,The Atlanta Abundant Birth Project,Supplemental Security Income (SSI),13
+GA,The Atlanta Abundant Birth Project,Unemployment Insurance,14
+GA,The Atlanta Abundant Birth Project,"Women, Infants and Children Nutrition Program (WIC)",15
+GA,The Atlanta Abundant Birth Project,Medicaid for Adults,16
+GA,The Atlanta Abundant Birth Project,PeachCare for Kids (Medicaid for Children/CHIP),17
+GA,The Atlanta Abundant Birth Project,Temporary Assistance for Needy Families (TANF),18
+GA,Urban League Greater Atlanta,Child and Dependent Care Tax Credit (CDCTC),1
+GA,Urban League Greater Atlanta,Childcare and Parent Services (CAPS),2
+GA,Urban League Greater Atlanta,Child Tax Credit (CTC),3
+GA,Urban League Greater Atlanta,Earned Income Tax Credit (EITC),4
+GA,Urban League Greater Atlanta,Free or Reduced Price School Meals,5
+GA,Urban League Greater Atlanta,Head Start/Early Head Start,6
+GA,Urban League Greater Atlanta,Health Insurance Marketplace Subsidy,7
+GA,Urban League Greater Atlanta,Section 8 Housing Voucher,8
+GA,Urban League Greater Atlanta,Social Security,9
+GA,Urban League Greater Atlanta,Social Security Disability Insurance (SSDI),10
+GA,Urban League Greater Atlanta,State-Funded Pre-Kindergarten,11
+GA,Urban League Greater Atlanta,Food Stamp Program (SNAP),12
+GA,Urban League Greater Atlanta,Supplemental Security Income (SSI),13
+GA,Urban League Greater Atlanta,Unemployment Insurance,14
+GA,Urban League Greater Atlanta,"Women, Infants and Children Nutrition Program (WIC)",15
+GA,Urban League Greater Atlanta,Medicaid for Adults,16
+GA,Urban League Greater Atlanta,PeachCare for Kids (Medicaid for Children/CHIP),17
+GA,Urban League Greater Atlanta,Temporary Assistance for Needy Families (TANF),18
+HI,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+HI,Custom Analysis,Child Care Subsidy (CCDF),2
+HI,Custom Analysis,Child Tax Credit (CTC),3
+HI,Custom Analysis,Earned Income Tax Credit (EITC),4
+HI,Custom Analysis,Free or Reduced Price School Meals,5
+HI,Custom Analysis,Head Start/Early Head Start,6
+HI,Custom Analysis,Health Insurance Marketplace Subsidy,7
+HI,Custom Analysis,Section 8 Housing Voucher,8
+HI,Custom Analysis,Social Security,9
+HI,Custom Analysis,Social Security Disability Insurance (SSDI),10
+HI,Custom Analysis,State-Funded Pre-Kindergarten,11
+HI,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+HI,Custom Analysis,Supplemental Security Income (SSI),13
+HI,Custom Analysis,Unemployment Insurance,14
+HI,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+HI,Custom Analysis,MedQuest (Medicaid for Adults),16
+HI,Custom Analysis,Medicaid for Children/CHIP,17
+HI,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+IA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+IA,Custom Analysis,Child Care Subsidy (CCDF),2
+IA,Custom Analysis,Child Tax Credit (CTC),3
+IA,Custom Analysis,Earned Income Tax Credit (EITC),4
+IA,Custom Analysis,Free or Reduced Price School Meals,5
+IA,Custom Analysis,Head Start/Early Head Start,6
+IA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+IA,Custom Analysis,Section 8 Housing Voucher,8
+IA,Custom Analysis,Social Security,9
+IA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+IA,Custom Analysis,State-Funded Pre-Kindergarten,11
+IA,Custom Analysis,Food Assistance Program (SNAP),12
+IA,Custom Analysis,Supplemental Security Income (SSI),13
+IA,Custom Analysis,Unemployment Insurance,14
+IA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+IA,Custom Analysis,IA Health Link (Medicaid for Adults),16
+IA,Custom Analysis,Healthy and Well Kids in Iowa (Medicaid for Children/CHIP),17
+IA,Custom Analysis,Family Investment Program (TANF),18
+ID,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+ID,Custom Analysis,Child Care Subsidy (CCDF),2
+ID,Custom Analysis,Child Tax Credit (CTC),3
+ID,Custom Analysis,Earned Income Tax Credit (EITC),4
+ID,Custom Analysis,Free or Reduced Price School Meals,5
+ID,Custom Analysis,Head Start/Early Head Start,6
+ID,Custom Analysis,Health Insurance Marketplace Subsidy,7
+ID,Custom Analysis,Section 8 Housing Voucher,8
+ID,Custom Analysis,Social Security,9
+ID,Custom Analysis,Social Security Disability Insurance (SSDI),10
+ID,Custom Analysis,State-Funded Pre-Kindergarten,11
+ID,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+ID,Custom Analysis,Supplemental Security Income (SSI),13
+ID,Custom Analysis,Unemployment Insurance,14
+ID,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+ID,Custom Analysis,Medicaid for Adults,16
+ID,Custom Analysis,Children's Health Insurance Program (Medicaid for Children/CHIP),17
+ID,Custom Analysis,Temporary Assistance for Families in Idaho (TANF),18
+IL,Cook County Promise,Child and Dependent Care Tax Credit (CDCTC),1
+IL,Cook County Promise,Child Care Assistance Program (CCAP/CCDF),2
+IL,Cook County Promise,Child Tax Credit (CTC),3
+IL,Cook County Promise,Earned Income Tax Credit (EITC),4
+IL,Cook County Promise,Free or Reduced Price School Meals,5
+IL,Cook County Promise,Head Start/Early Head Start,6
+IL,Cook County Promise,Health Insurance Marketplace Subsidy,7
+IL,Cook County Promise,Section 8 Housing Voucher,8
+IL,Cook County Promise,Social Security,9
+IL,Cook County Promise,Social Security Disability Insurance (SSDI),10
+IL,Cook County Promise,State-Funded Pre-Kindergarten,11
+IL,Cook County Promise,Supplemental Nutrition Assistance Program (SNAP),12
+IL,Cook County Promise,Supplemental Security Income (SSI),13
+IL,Cook County Promise,Unemployment Insurance,14
+IL,Cook County Promise,"Women, Infants and Children Nutrition Program (WIC)",15
+IL,Cook County Promise,Medical Assistance Program (Medicaid for Adults),16
+IL,Cook County Promise,All Kids (Medicaid for Children/CHIP),17
+IL,Cook County Promise,Temporary Assistance for Needy Families (TANF),18
+IL,Cook County Promise,Moms and Babies,201
+IL,Cook County Promise,Medicare Savings Program,202
+IL,Cook County Promise,Health Benefits for Workers with Disabilities,203
+IL,Cook County Promise,Former Foster Care,204
+IL,Cook County Promise,FamilyCare,205
+IL,Cook County Promise,Downpayment Plus programs from Federal Home Loan Bank of Chicago,206
+IL,Cook County Promise,"Aid for the Aging, Blind, and Disabled (AABD)",207
+IL,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+IL,Custom Analysis,Child Care Assistance Program (CCAP/CCDF),2
+IL,Custom Analysis,Child Tax Credit (CTC),3
+IL,Custom Analysis,Earned Income Tax Credit (EITC),4
+IL,Custom Analysis,Free or Reduced Price School Meals,5
+IL,Custom Analysis,Head Start/Early Head Start,6
+IL,Custom Analysis,Health Insurance Marketplace Subsidy,7
+IL,Custom Analysis,Section 8 Housing Voucher,8
+IL,Custom Analysis,Social Security,9
+IL,Custom Analysis,Social Security Disability Insurance (SSDI),10
+IL,Custom Analysis,State-Funded Pre-Kindergarten,11
+IL,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+IL,Custom Analysis,Supplemental Security Income (SSI),13
+IL,Custom Analysis,Unemployment Insurance,14
+IL,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+IL,Custom Analysis,Medical Assistance Program (Medicaid for Adults),16
+IL,Custom Analysis,All Kids (Medicaid for Children/CHIP),17
+IL,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+IN,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+IN,Custom Analysis,Child Care Subsidy (CCDF),2
+IN,Custom Analysis,Child Tax Credit (CTC),3
+IN,Custom Analysis,Earned Income Tax Credit (EITC),4
+IN,Custom Analysis,Free or Reduced Price School Meals,5
+IN,Custom Analysis,Head Start/Early Head Start,6
+IN,Custom Analysis,Health Insurance Marketplace Subsidy,7
+IN,Custom Analysis,Section 8 Housing Voucher,8
+IN,Custom Analysis,Social Security,9
+IN,Custom Analysis,Social Security Disability Insurance (SSDI),10
+IN,Custom Analysis,State-Funded Pre-Kindergarten,11
+IN,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+IN,Custom Analysis,Supplemental Security Income (SSI),13
+IN,Custom Analysis,Unemployment Insurance,14
+IN,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+IN,Custom Analysis,Medicaid for Adults,16
+IN,Custom Analysis,Hoosier Healthwise (Medicaid for Children/CHIP),17
+IN,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+KS,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+KS,Custom Analysis,Child Care Subsidy (CCDF),2
+KS,Custom Analysis,Child Tax Credit (CTC),3
+KS,Custom Analysis,Earned Income Tax Credit (EITC),4
+KS,Custom Analysis,Free or Reduced Price School Meals,5
+KS,Custom Analysis,Head Start/Early Head Start,6
+KS,Custom Analysis,Health Insurance Marketplace Subsidy,7
+KS,Custom Analysis,Section 8 Housing Voucher,8
+KS,Custom Analysis,Social Security,9
+KS,Custom Analysis,Social Security Disability Insurance (SSDI),10
+KS,Custom Analysis,State-Funded Pre-Kindergarten,11
+KS,Custom Analysis,Food Assistance Program (SNAP),12
+KS,Custom Analysis,Supplemental Security Income (SSI),13
+KS,Custom Analysis,Unemployment Insurance,14
+KS,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+KS,Custom Analysis,KanCare Medical Assistance Program (Medicaid for Adults),16
+KS,Custom Analysis,KanCare (Medicaid for Children/CHIP),17
+KS,Custom Analysis,Kansas Works (TANF),18
+KY,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+KY,Custom Analysis,Child Care Subsidy (CCDF),2
+KY,Custom Analysis,Child Tax Credit (CTC),3
+KY,Custom Analysis,Earned Income Tax Credit (EITC),4
+KY,Custom Analysis,Free or Reduced Price School Meals,5
+KY,Custom Analysis,Head Start/Early Head Start,6
+KY,Custom Analysis,Health Insurance Marketplace Subsidy,7
+KY,Custom Analysis,Section 8 Housing Voucher,8
+KY,Custom Analysis,Social Security,9
+KY,Custom Analysis,Social Security Disability Insurance (SSDI),10
+KY,Custom Analysis,State-Funded Pre-Kindergarten,11
+KY,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+KY,Custom Analysis,Supplemental Security Income (SSI),13
+KY,Custom Analysis,Unemployment Insurance,14
+KY,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+KY,Custom Analysis,Medicaid for Adults,16
+KY,Custom Analysis,KCHIP - Kentucky Children's Health Insurance Program (Medicaid for Children/CHIP),17
+KY,Custom Analysis,K-TAP - Kentucky Transitional Assistance Program (TANF),18
+KY,"Louisville, KY",Child and Dependent Care Tax Credit (CDCTC),1
+KY,"Louisville, KY",Child Care Subsidy (CCDF),2
+KY,"Louisville, KY",Child Tax Credit (CTC),3
+KY,"Louisville, KY",Earned Income Tax Credit (EITC),4
+KY,"Louisville, KY",Free or Reduced Price School Meals,5
+KY,"Louisville, KY",Head Start/Early Head Start,6
+KY,"Louisville, KY",Health Insurance Marketplace Subsidy,7
+KY,"Louisville, KY",Section 8 Housing Voucher,8
+KY,"Louisville, KY",Social Security,9
+KY,"Louisville, KY",Social Security Disability Insurance (SSDI),10
+KY,"Louisville, KY",State-Funded Pre-Kindergarten,11
+KY,"Louisville, KY",Supplemental Nutrition Assistance Program (SNAP),12
+KY,"Louisville, KY",Supplemental Security Income (SSI),13
+KY,"Louisville, KY",Unemployment Insurance,14
+KY,"Louisville, KY","Women, Infants and Children Nutrition Program (WIC)",15
+KY,"Louisville, KY",Medicaid for Adults,16
+KY,"Louisville, KY",KCHIP - Kentucky Children's Health Insurance Program (Medicaid for Children/CHIP),17
+KY,"Louisville, KY",K-TAP - Kentucky Transitional Assistance Program (TANF),18
+LA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+LA,Custom Analysis,Child Care Subsidy (CCDF),2
+LA,Custom Analysis,Child Tax Credit (CTC),3
+LA,Custom Analysis,Earned Income Tax Credit (EITC),4
+LA,Custom Analysis,Free or Reduced Price School Meals,5
+LA,Custom Analysis,Head Start/Early Head Start,6
+LA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+LA,Custom Analysis,Section 8 Housing Voucher,8
+LA,Custom Analysis,Social Security,9
+LA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+LA,Custom Analysis,State-Funded Pre-Kindergarten,11
+LA,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+LA,Custom Analysis,Supplemental Security Income (SSI),13
+LA,Custom Analysis,Unemployment Insurance,14
+LA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+LA,Custom Analysis,Healthy Louisiana (Medicaid for Adults),16
+LA,Custom Analysis,Louisiana Children's Health Insurance Program (Medicaid for Children/CHIP),17
+LA,Custom Analysis,FITAP - Family Independence Temporary Assistance Program (TANF),18
+MA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+MA,Custom Analysis,Child Care Subsidy (CCDF),2
+MA,Custom Analysis,Child Tax Credit (CTC),3
+MA,Custom Analysis,Earned Income Tax Credit (EITC),4
+MA,Custom Analysis,Free or Reduced Price School Meals,5
+MA,Custom Analysis,Head Start/Early Head Start,6
+MA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+MA,Custom Analysis,Section 8 Housing Voucher,8
+MA,Custom Analysis,Social Security,9
+MA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+MA,Custom Analysis,State-Funded Pre-Kindergarten,11
+MA,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+MA,Custom Analysis,Supplemental Security Income (SSI),13
+MA,Custom Analysis,Unemployment Insurance,14
+MA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+MA,Custom Analysis,Adult MassHealth (Medicaid for Adults),16
+MA,Custom Analysis,MassHealth for Children (Medicaid for Children/CHIP),17
+MA,Custom Analysis,TAFDC (TANF),18
+MD,CASH Campaign of Maryland,Child and Dependent Care Tax Credit (CDCTC),1
+MD,CASH Campaign of Maryland,Child Care Scholarship (CCS),2
+MD,CASH Campaign of Maryland,Child Tax Credit (CTC),3
+MD,CASH Campaign of Maryland,Earned Income Tax Credit (EITC),4
+MD,CASH Campaign of Maryland,Free or Reduced Price School Meals,5
+MD,CASH Campaign of Maryland,Head Start/Early Head Start,6
+MD,CASH Campaign of Maryland,Health Insurance Marketplace Subsidy,7
+MD,CASH Campaign of Maryland,Section 8 Housing Voucher,8
+MD,CASH Campaign of Maryland,Social Security,9
+MD,CASH Campaign of Maryland,Social Security Disability Insurance (SSDI),10
+MD,CASH Campaign of Maryland,State-Funded Pre-Kindergarten,11
+MD,CASH Campaign of Maryland,Supplemental Nutrition Assistance Program (SNAP),12
+MD,CASH Campaign of Maryland,Supplemental Security Income (SSI),13
+MD,CASH Campaign of Maryland,Unemployment Insurance,14
+MD,CASH Campaign of Maryland,"Women, Infants and Children Nutrition Program (WIC)",15
+MD,CASH Campaign of Maryland,Medical Assistance (Medicaid for Adults),16
+MD,CASH Campaign of Maryland,Maryland Children's Health Program (Medicaid for Children/CHIP),17
+MD,CASH Campaign of Maryland,Family Investment Program (TANF),18
+MD,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+MD,Custom Analysis,Child Care Scholarship (CCS),2
+MD,Custom Analysis,Child Tax Credit (CTC),3
+MD,Custom Analysis,Earned Income Tax Credit (EITC),4
+MD,Custom Analysis,Free or Reduced Price School Meals,5
+MD,Custom Analysis,Head Start/Early Head Start,6
+MD,Custom Analysis,Health Insurance Marketplace Subsidy,7
+MD,Custom Analysis,Section 8 Housing Voucher,8
+MD,Custom Analysis,Social Security,9
+MD,Custom Analysis,Social Security Disability Insurance (SSDI),10
+MD,Custom Analysis,State-Funded Pre-Kindergarten,11
+MD,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+MD,Custom Analysis,Supplemental Security Income (SSI),13
+MD,Custom Analysis,Unemployment Insurance,14
+MD,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+MD,Custom Analysis,Medical Assistance (Medicaid for Adults),16
+MD,Custom Analysis,Maryland Children's Health Program (Medicaid for Children/CHIP),17
+MD,Custom Analysis,Family Investment Program (TANF),18
+MD,MoCo Boost,Child and Dependent Care Tax Credit (CDCTC),1
+MD,MoCo Boost,Child Care Scholarship (CCS),2
+MD,MoCo Boost,Child Tax Credit (CTC),3
+MD,MoCo Boost,Earned Income Tax Credit (EITC),4
+MD,MoCo Boost,Free or Reduced Price School Meals,5
+MD,MoCo Boost,Head Start/Early Head Start,6
+MD,MoCo Boost,Health Insurance Marketplace Subsidy,7
+MD,MoCo Boost,Section 8 Housing Voucher,8
+MD,MoCo Boost,Social Security,9
+MD,MoCo Boost,Social Security Disability Insurance (SSDI),10
+MD,MoCo Boost,State-Funded Pre-Kindergarten,11
+MD,MoCo Boost,Supplemental Nutrition Assistance Program (SNAP),12
+MD,MoCo Boost,Supplemental Security Income (SSI),13
+MD,MoCo Boost,Unemployment Insurance,14
+MD,MoCo Boost,"Women, Infants and Children Nutrition Program (WIC)",15
+MD,MoCo Boost,Medical Assistance (Medicaid for Adults),16
+MD,MoCo Boost,Maryland Children's Health Program (Medicaid for Children/CHIP),17
+MD,MoCo Boost,Family Investment Program (TANF),18
+MD,MoCo Boost,Working Parents Childcare Assistance,101
+MD,MoCo Boost,"Senior Dental, Maternity Partnership, or Care4Kids",102
+MD,MoCo Boost,Montgomery County Rental Assistance Program,103
+ME,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+ME,Custom Analysis,Child Care Subsidy (CCDF),2
+ME,Custom Analysis,Child Tax Credit (CTC),3
+ME,Custom Analysis,Earned Income Tax Credit (EITC),4
+ME,Custom Analysis,Free or Reduced Price School Meals,5
+ME,Custom Analysis,Head Start/Early Head Start,6
+ME,Custom Analysis,Health Insurance Marketplace Subsidy,7
+ME,Custom Analysis,Section 8 Housing Voucher,8
+ME,Custom Analysis,Social Security,9
+ME,Custom Analysis,Social Security Disability Insurance (SSDI),10
+ME,Custom Analysis,State-Funded Pre-Kindergarten,11
+ME,Custom Analysis,Food Supplement Program (SNAP),12
+ME,Custom Analysis,Supplemental Security Income (SSI),13
+ME,Custom Analysis,Unemployment Insurance,14
+ME,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+ME,Custom Analysis,MaineCare (Medicaid for Adults),16
+ME,Custom Analysis,MaineCare Cub Care (Medicaid for Children/CHIP),17
+ME,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+MI,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+MI,Custom Analysis,Child Care Subsidy (CCDF),2
+MI,Custom Analysis,Child Tax Credit (CTC),3
+MI,Custom Analysis,Earned Income Tax Credit (EITC),4
+MI,Custom Analysis,Free or Reduced Price School Meals,5
+MI,Custom Analysis,Head Start/Early Head Start,6
+MI,Custom Analysis,Health Insurance Marketplace Subsidy,7
+MI,Custom Analysis,Section 8 Housing Voucher,8
+MI,Custom Analysis,Social Security,9
+MI,Custom Analysis,Social Security Disability Insurance (SSDI),10
+MI,Custom Analysis,State-Funded Pre-Kindergarten,11
+MI,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+MI,Custom Analysis,Supplemental Security Income (SSI),13
+MI,Custom Analysis,Unemployment Insurance,14
+MI,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+MI,Custom Analysis,Medical Assistance (Medicaid for Adults),16
+MI,Custom Analysis,MIChild (Medicaid for Children/CHIP),17
+MI,Custom Analysis,FIP - Family Independence Program (TANF),18
+MN,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+MN,Custom Analysis,Child Care Subsidy (CCDF),2
+MN,Custom Analysis,Child Tax Credit (CTC),3
+MN,Custom Analysis,Earned Income Tax Credit (EITC),4
+MN,Custom Analysis,Free or Reduced Price School Meals,5
+MN,Custom Analysis,Head Start/Early Head Start,6
+MN,Custom Analysis,Health Insurance Marketplace Subsidy,7
+MN,Custom Analysis,Section 8 Housing Voucher,8
+MN,Custom Analysis,Social Security,9
+MN,Custom Analysis,Social Security Disability Insurance (SSDI),10
+MN,Custom Analysis,State-Funded Pre-Kindergarten,11
+MN,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+MN,Custom Analysis,Supplemental Security Income (SSI),13
+MN,Custom Analysis,Unemployment Insurance,14
+MN,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+MN,Custom Analysis,Medical Assistance (Medicaid for Adults),16
+MN,Custom Analysis,MinnesotaCare (Medicaid for Children/CHIP),17
+MN,Custom Analysis,MFIP (TANF),18
+MO,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+MO,Custom Analysis,Child Care Subsidy (CCDF),2
+MO,Custom Analysis,Child Tax Credit (CTC),3
+MO,Custom Analysis,Earned Income Tax Credit (EITC),4
+MO,Custom Analysis,Free or Reduced Price School Meals,5
+MO,Custom Analysis,Head Start/Early Head Start,6
+MO,Custom Analysis,Health Insurance Marketplace Subsidy,7
+MO,Custom Analysis,Section 8 Housing Voucher,8
+MO,Custom Analysis,Social Security,9
+MO,Custom Analysis,Social Security Disability Insurance (SSDI),10
+MO,Custom Analysis,State-Funded Pre-Kindergarten,11
+MO,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+MO,Custom Analysis,Supplemental Security Income (SSI),13
+MO,Custom Analysis,Unemployment Insurance,14
+MO,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+MO,Custom Analysis,MO HealthNet (Medicaid for Adults),16
+MO,Custom Analysis,MO HealthNet for Kids (Medicaid for Children/CHIP),17
+MO,Custom Analysis,Beyond Welfare (TANF),18
+MS,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+MS,Custom Analysis,Child Care Subsidy (CCDF),2
+MS,Custom Analysis,Child Tax Credit (CTC),3
+MS,Custom Analysis,Earned Income Tax Credit (EITC),4
+MS,Custom Analysis,Free or Reduced Price School Meals,5
+MS,Custom Analysis,Head Start/Early Head Start,6
+MS,Custom Analysis,Health Insurance Marketplace Subsidy,7
+MS,Custom Analysis,Section 8 Housing Voucher,8
+MS,Custom Analysis,Social Security,9
+MS,Custom Analysis,Social Security Disability Insurance (SSDI),10
+MS,Custom Analysis,State-Funded Pre-Kindergarten,11
+MS,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+MS,Custom Analysis,Supplemental Security Income (SSI),13
+MS,Custom Analysis,Unemployment Insurance,14
+MS,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+MS,Custom Analysis,Mississippi Coordinated Access Network (Medicaid for Adults),16
+MS,Custom Analysis,Mississippi Health Benefits (Medicaid for Children/CHIP),17
+MS,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+MT,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+MT,Custom Analysis,Child Care Subsidy (CCDF),2
+MT,Custom Analysis,Child Tax Credit (CTC),3
+MT,Custom Analysis,Earned Income Tax Credit (EITC),4
+MT,Custom Analysis,Free or Reduced Price School Meals,5
+MT,Custom Analysis,Head Start/Early Head Start,6
+MT,Custom Analysis,Health Insurance Marketplace Subsidy,7
+MT,Custom Analysis,Section 8 Housing Voucher,8
+MT,Custom Analysis,Social Security,9
+MT,Custom Analysis,Social Security Disability Insurance (SSDI),10
+MT,Custom Analysis,State-Funded Pre-Kindergarten,11
+MT,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+MT,Custom Analysis,Supplemental Security Income (SSI),13
+MT,Custom Analysis,Unemployment Insurance,14
+MT,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+MT,Custom Analysis,Medicaid for Adults,16
+MT,Custom Analysis,Healthy Montana Kids (Medicaid for Children/CHIP),17
+MT,Custom Analysis,FAIM - Families Achieving Independence in Montana (TANF),18
+NC,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+NC,Custom Analysis,Child Care Subsidy (CCDF),2
+NC,Custom Analysis,Child Tax Credit (CTC),3
+NC,Custom Analysis,Earned Income Tax Credit (EITC),4
+NC,Custom Analysis,Free or Reduced Price School Meals,5
+NC,Custom Analysis,Head Start/Early Head Start,6
+NC,Custom Analysis,Health Insurance Marketplace Subsidy,7
+NC,Custom Analysis,Section 8 Housing Voucher,8
+NC,Custom Analysis,Social Security,9
+NC,Custom Analysis,Social Security Disability Insurance (SSDI),10
+NC,Custom Analysis,State-Funded Pre-Kindergarten,11
+NC,Custom Analysis,Food & Nutrition Services (SNAP),12
+NC,Custom Analysis,Supplemental Security Income (SSI),13
+NC,Custom Analysis,Unemployment Insurance,14
+NC,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+NC,Custom Analysis,Division of Health Benefits (Medicaid for Adults),16
+NC,Custom Analysis,North Carolina Health Choice (Medicaid for Children/CHIP),17
+NC,Custom Analysis,Work First (TANF),18
+ND,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+ND,Custom Analysis,Child Care Subsidy (CCDF),2
+ND,Custom Analysis,Child Tax Credit (CTC),3
+ND,Custom Analysis,Earned Income Tax Credit (EITC),4
+ND,Custom Analysis,Free or Reduced Price School Meals,5
+ND,Custom Analysis,Head Start/Early Head Start,6
+ND,Custom Analysis,Health Insurance Marketplace Subsidy,7
+ND,Custom Analysis,Section 8 Housing Voucher,8
+ND,Custom Analysis,Social Security,9
+ND,Custom Analysis,Social Security Disability Insurance (SSDI),10
+ND,Custom Analysis,State-Funded Pre-Kindergarten,11
+ND,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+ND,Custom Analysis,Supplemental Security Income (SSI),13
+ND,Custom Analysis,Unemployment Insurance,14
+ND,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+ND,Custom Analysis,North Dakota Medicaid Expansion Program (Medicaid for Adults),16
+ND,Custom Analysis,Children's Health Insurance Program (Medicaid for Children/CHIP),17
+ND,Custom Analysis,"TEEM - Training, Employment, Education Management (TANF)",18
+NE,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+NE,Custom Analysis,Child Care Subsidy (CCDF),2
+NE,Custom Analysis,Child Tax Credit (CTC),3
+NE,Custom Analysis,Earned Income Tax Credit (EITC),4
+NE,Custom Analysis,Free or Reduced Price School Meals,5
+NE,Custom Analysis,Head Start/Early Head Start,6
+NE,Custom Analysis,Health Insurance Marketplace Subsidy,7
+NE,Custom Analysis,Section 8 Housing Voucher,8
+NE,Custom Analysis,Social Security,9
+NE,Custom Analysis,Social Security Disability Insurance (SSDI),10
+NE,Custom Analysis,State-Funded Pre-Kindergarten,11
+NE,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+NE,Custom Analysis,Supplemental Security Income (SSI),13
+NE,Custom Analysis,Unemployment Insurance,14
+NE,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+NE,Custom Analysis,Nebraska Medical Assistance Program (Medicaid for Adults),16
+NE,Custom Analysis,Medicaid for Children/CHIP,17
+NE,Custom Analysis,Employment First  (TANF),18
+NH,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+NH,Custom Analysis,Child Care Subsidy (CCDF),2
+NH,Custom Analysis,Child Tax Credit (CTC),3
+NH,Custom Analysis,Earned Income Tax Credit (EITC),4
+NH,Custom Analysis,Free or Reduced Price School Meals,5
+NH,Custom Analysis,Head Start/Early Head Start,6
+NH,Custom Analysis,Health Insurance Marketplace Subsidy,7
+NH,Custom Analysis,Section 8 Housing Voucher,8
+NH,Custom Analysis,Social Security,9
+NH,Custom Analysis,Social Security Disability Insurance (SSDI),10
+NH,Custom Analysis,State-Funded Pre-Kindergarten,11
+NH,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+NH,Custom Analysis,Supplemental Security Income (SSI),13
+NH,Custom Analysis,Unemployment Insurance,14
+NH,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+NH,Custom Analysis,NH Medicaid (Medicaid for Adults),16
+NH,Custom Analysis,NH Medicaid for Kids (Medicaid for Children/CHIP),17
+NH,Custom Analysis,Family Assistance Program (TANF),18
+NJ,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+NJ,Custom Analysis,Child Care Subsidy (CCDF),2
+NJ,Custom Analysis,Child Tax Credit (CTC),3
+NJ,Custom Analysis,Earned Income Tax Credit (EITC),4
+NJ,Custom Analysis,Free or Reduced Price School Meals,5
+NJ,Custom Analysis,Head Start/Early Head Start,6
+NJ,Custom Analysis,Health Insurance Marketplace Subsidy,7
+NJ,Custom Analysis,Section 8 Housing Voucher,8
+NJ,Custom Analysis,Social Security,9
+NJ,Custom Analysis,Social Security Disability Insurance (SSDI),10
+NJ,Custom Analysis,State-Funded Pre-Kindergarten,11
+NJ,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+NJ,Custom Analysis,Supplemental Security Income (SSI),13
+NJ,Custom Analysis,Unemployment Insurance,14
+NJ,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+NJ,Custom Analysis,NJ FamilyCare (Medicaid for Adults),16
+NJ,Custom Analysis,NJ FamilyCare for Children (Medicaid for Children/CHIP),17
+NJ,Custom Analysis,Work First New Jersey (TANF),18
+NM,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+NM,Custom Analysis,Child Care Subsidy (CCDF),2
+NM,Custom Analysis,Child Tax Credit (CTC),3
+NM,Custom Analysis,Earned Income Tax Credit (EITC),4
+NM,Custom Analysis,Free or Reduced Price School Meals,5
+NM,Custom Analysis,Head Start/Early Head Start,6
+NM,Custom Analysis,Health Insurance Marketplace Subsidy,7
+NM,Custom Analysis,Section 8 Housing Voucher,8
+NM,Custom Analysis,Social Security,9
+NM,Custom Analysis,Social Security Disability Insurance (SSDI),10
+NM,Custom Analysis,State-Funded Pre-Kindergarten,11
+NM,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+NM,Custom Analysis,Supplemental Security Income (SSI),13
+NM,Custom Analysis,Unemployment Insurance,14
+NM,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+NM,Custom Analysis,Centennial Care (Medicaid for Adults),16
+NM,Custom Analysis,Centennial Care for Children (Medicaid for Children/CHIP),17
+NM,Custom Analysis,NM Works (TANF),18
+NV,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+NV,Custom Analysis,Child Care Subsidy (CCDF),2
+NV,Custom Analysis,Child Tax Credit (CTC),3
+NV,Custom Analysis,Earned Income Tax Credit (EITC),4
+NV,Custom Analysis,Free or Reduced Price School Meals,5
+NV,Custom Analysis,Head Start/Early Head Start,6
+NV,Custom Analysis,Health Insurance Marketplace Subsidy,7
+NV,Custom Analysis,Section 8 Housing Voucher,8
+NV,Custom Analysis,Social Security,9
+NV,Custom Analysis,Social Security Disability Insurance (SSDI),10
+NV,Custom Analysis,State-Funded Pre-Kindergarten,11
+NV,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+NV,Custom Analysis,Supplemental Security Income (SSI),13
+NV,Custom Analysis,Unemployment Insurance,14
+NV,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+NV,Custom Analysis,Medicaid for Adults,16
+NV,Custom Analysis,Nevada Check Up (Medicaid for Children/CHIP),17
+NV,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+NY,Children's Defense Fund,Child and Dependent Care Tax Credit (CDCTC),1
+NY,Children's Defense Fund,Child Care Subsidy (CCDF),2
+NY,Children's Defense Fund,Child Tax Credit (CTC),3
+NY,Children's Defense Fund,Earned Income Tax Credit (EITC),4
+NY,Children's Defense Fund,Free or Reduced Price School Meals,5
+NY,Children's Defense Fund,Head Start/Early Head Start,6
+NY,Children's Defense Fund,Health Insurance Marketplace Subsidy,7
+NY,Children's Defense Fund,Section 8 Housing Voucher,8
+NY,Children's Defense Fund,Social Security,9
+NY,Children's Defense Fund,Social Security Disability Insurance (SSDI),10
+NY,Children's Defense Fund,State-Funded Pre-Kindergarten,11
+NY,Children's Defense Fund,Supplemental Nutrition Assistance Program (SNAP),12
+NY,Children's Defense Fund,Supplemental Security Income (SSI),13
+NY,Children's Defense Fund,Unemployment Insurance,14
+NY,Children's Defense Fund,"Women, Infants and Children Nutrition Program (WIC)",15
+NY,Children's Defense Fund,Medicaid Managed Care (Medicaid for Adults),16
+NY,Children's Defense Fund,Child Health Plus (Medicaid for Children/CHIP),17
+NY,Children's Defense Fund,Family Assistance Program (TANF),18
+NY,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+NY,Custom Analysis,Child Care Subsidy (CCDF),2
+NY,Custom Analysis,Child Tax Credit (CTC),3
+NY,Custom Analysis,Earned Income Tax Credit (EITC),4
+NY,Custom Analysis,Free or Reduced Price School Meals,5
+NY,Custom Analysis,Head Start/Early Head Start,6
+NY,Custom Analysis,Health Insurance Marketplace Subsidy,7
+NY,Custom Analysis,Section 8 Housing Voucher,8
+NY,Custom Analysis,Social Security,9
+NY,Custom Analysis,Social Security Disability Insurance (SSDI),10
+NY,Custom Analysis,State-Funded Pre-Kindergarten,11
+NY,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+NY,Custom Analysis,Supplemental Security Income (SSI),13
+NY,Custom Analysis,Unemployment Insurance,14
+NY,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+NY,Custom Analysis,Medicaid Managed Care (Medicaid for Adults),16
+NY,Custom Analysis,Child Health Plus (Medicaid for Children/CHIP),17
+NY,Custom Analysis,Family Assistance Program (TANF),18
+NY,NY Creative Rebuild,Child and Dependent Care Tax Credit (CDCTC),1
+NY,NY Creative Rebuild,Child Care Subsidy (CCDF),2
+NY,NY Creative Rebuild,Child Tax Credit (CTC),3
+NY,NY Creative Rebuild,Earned Income Tax Credit (EITC),4
+NY,NY Creative Rebuild,Free or Reduced Price School Meals,5
+NY,NY Creative Rebuild,Head Start/Early Head Start,6
+NY,NY Creative Rebuild,Health Insurance Marketplace Subsidy,7
+NY,NY Creative Rebuild,Section 8 Housing Voucher,8
+NY,NY Creative Rebuild,Social Security,9
+NY,NY Creative Rebuild,Social Security Disability Insurance (SSDI),10
+NY,NY Creative Rebuild,State-Funded Pre-Kindergarten,11
+NY,NY Creative Rebuild,Supplemental Nutrition Assistance Program (SNAP),12
+NY,NY Creative Rebuild,Supplemental Security Income (SSI),13
+NY,NY Creative Rebuild,Unemployment Insurance,14
+NY,NY Creative Rebuild,"Women, Infants and Children Nutrition Program (WIC)",15
+NY,NY Creative Rebuild,Medicaid Managed Care (Medicaid for Adults),16
+NY,NY Creative Rebuild,Child Health Plus (Medicaid for Children/CHIP),17
+NY,NY Creative Rebuild,Family Assistance Program (TANF),18
+NY,NYS Direct Cash Transfer,Child and Dependent Care Tax Credit (CDCTC),1
+NY,NYS Direct Cash Transfer,Child Care Subsidy (CCDF),2
+NY,NYS Direct Cash Transfer,Child Tax Credit (CTC),3
+NY,NYS Direct Cash Transfer,Earned Income Tax Credit (EITC),4
+NY,NYS Direct Cash Transfer,Free or Reduced Price School Meals,5
+NY,NYS Direct Cash Transfer,Head Start/Early Head Start,6
+NY,NYS Direct Cash Transfer,Health Insurance Marketplace Subsidy,7
+NY,NYS Direct Cash Transfer,Section 8 Housing Voucher,8
+NY,NYS Direct Cash Transfer,Social Security,9
+NY,NYS Direct Cash Transfer,Social Security Disability Insurance (SSDI),10
+NY,NYS Direct Cash Transfer,State-Funded Pre-Kindergarten,11
+NY,NYS Direct Cash Transfer,Supplemental Nutrition Assistance Program (SNAP),12
+NY,NYS Direct Cash Transfer,Supplemental Security Income (SSI),13
+NY,NYS Direct Cash Transfer,Unemployment Insurance,14
+NY,NYS Direct Cash Transfer,"Women, Infants and Children Nutrition Program (WIC)",15
+NY,NYS Direct Cash Transfer,Medicaid Managed Care (Medicaid for Adults),16
+NY,NYS Direct Cash Transfer,Child Health Plus (Medicaid for Children/CHIP),17
+NY,NYS Direct Cash Transfer,Family Assistance Program (TANF),18
+NY,The BRIDGE Project,Child and Dependent Care Tax Credit (CDCTC),1
+NY,The BRIDGE Project,Child Care Subsidy (CCDF),2
+NY,The BRIDGE Project,Child Tax Credit (CTC),3
+NY,The BRIDGE Project,Earned Income Tax Credit (EITC),4
+NY,The BRIDGE Project,Free or Reduced Price School Meals,5
+NY,The BRIDGE Project,Head Start/Early Head Start,6
+NY,The BRIDGE Project,Health Insurance Marketplace Subsidy,7
+NY,The BRIDGE Project,Section 8 Housing Voucher,8
+NY,The BRIDGE Project,Social Security,9
+NY,The BRIDGE Project,Social Security Disability Insurance (SSDI),10
+NY,The BRIDGE Project,State-Funded Pre-Kindergarten,11
+NY,The BRIDGE Project,Supplemental Nutrition Assistance Program (SNAP),12
+NY,The BRIDGE Project,Supplemental Security Income (SSI),13
+NY,The BRIDGE Project,Unemployment Insurance,14
+NY,The BRIDGE Project,"Women, Infants and Children Nutrition Program (WIC)",15
+NY,The BRIDGE Project,Medicaid Managed Care (Medicaid for Adults),16
+NY,The BRIDGE Project,Child Health Plus (Medicaid for Children/CHIP),17
+NY,The BRIDGE Project,Family Assistance Program (TANF),18
+OH,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+OH,Custom Analysis,Child Care Subsidy (CCDF),2
+OH,Custom Analysis,Child Tax Credit (CTC),3
+OH,Custom Analysis,Earned Income Tax Credit (EITC),4
+OH,Custom Analysis,Free or Reduced Price School Meals,5
+OH,Custom Analysis,Head Start/Early Head Start,6
+OH,Custom Analysis,Health Insurance Marketplace Subsidy,7
+OH,Custom Analysis,Section 8 Housing Voucher,8
+OH,Custom Analysis,Social Security,9
+OH,Custom Analysis,Social Security Disability Insurance (SSDI),10
+OH,Custom Analysis,State-Funded Pre-Kindergarten,11
+OH,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+OH,Custom Analysis,Supplemental Security Income (SSI),13
+OH,Custom Analysis,Unemployment Insurance,14
+OH,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+OH,Custom Analysis,Medicaid for Adults,16
+OH,Custom Analysis,Healthy Start (Medicaid for Children/CHIP),17
+OH,Custom Analysis,Ohio Works First (TANF),18
+OK,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+OK,Custom Analysis,Child Care Subsidy (CCDF),2
+OK,Custom Analysis,Child Tax Credit (CTC),3
+OK,Custom Analysis,Earned Income Tax Credit (EITC),4
+OK,Custom Analysis,Free or Reduced Price School Meals,5
+OK,Custom Analysis,Head Start/Early Head Start,6
+OK,Custom Analysis,Health Insurance Marketplace Subsidy,7
+OK,Custom Analysis,Section 8 Housing Voucher,8
+OK,Custom Analysis,Social Security,9
+OK,Custom Analysis,Social Security Disability Insurance (SSDI),10
+OK,Custom Analysis,State-Funded Pre-Kindergarten,11
+OK,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+OK,Custom Analysis,Supplemental Security Income (SSI),13
+OK,Custom Analysis,Unemployment Insurance,14
+OK,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+OK,Custom Analysis,SoonerCare (Medicaid for Adults),16
+OK,Custom Analysis,SoonerCare for Children (Medicaid for Children/CHIP),17
+OK,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+OR,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+OR,Custom Analysis,Child Care Subsidy (CCDF),2
+OR,Custom Analysis,Child Tax Credit (CTC),3
+OR,Custom Analysis,Earned Income Tax Credit (EITC),4
+OR,Custom Analysis,Free or Reduced Price School Meals,5
+OR,Custom Analysis,Head Start/Early Head Start,6
+OR,Custom Analysis,Health Insurance Marketplace Subsidy,7
+OR,Custom Analysis,Section 8 Housing Voucher,8
+OR,Custom Analysis,Social Security,9
+OR,Custom Analysis,Social Security Disability Insurance (SSDI),10
+OR,Custom Analysis,State-Funded Pre-Kindergarten,11
+OR,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+OR,Custom Analysis,Supplemental Security Income (SSI),13
+OR,Custom Analysis,Unemployment Insurance,14
+OR,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+OR,Custom Analysis,Oregon Health Plan (Medicaid for Adults),16
+OR,Custom Analysis,Oregon Health Plan for Children (Medicaid for Children/CHIP),17
+OR,Custom Analysis,JOBS - Job Opportunities and Basic Skills Program (TANF),18
+PA,City of Philadelphia,Child and Dependent Care Tax Credit (CDCTC),1
+PA,City of Philadelphia,Child Care Subsidy (CCDF),2
+PA,City of Philadelphia,Child Tax Credit (CTC),3
+PA,City of Philadelphia,Earned Income Tax Credit (EITC),4
+PA,City of Philadelphia,Free or Reduced Price School Meals,5
+PA,City of Philadelphia,Head Start/Early Head Start,6
+PA,City of Philadelphia,Health Insurance Marketplace Subsidy,7
+PA,City of Philadelphia,Section 8 Housing Voucher,8
+PA,City of Philadelphia,Social Security,9
+PA,City of Philadelphia,Social Security Disability Insurance (SSDI),10
+PA,City of Philadelphia,State-Funded Pre-Kindergarten,11
+PA,City of Philadelphia,Supplemental Nutrition Assistance Program (SNAP),12
+PA,City of Philadelphia,Supplemental Security Income (SSI),13
+PA,City of Philadelphia,Unemployment Insurance,14
+PA,City of Philadelphia,"Women, Infants and Children Nutrition Program (WIC)",15
+PA,City of Philadelphia,Medical Assistance (Medicaid for Adults),16
+PA,City of Philadelphia,Pennsylvania’s Children’s Health Insurance Program (Medicaid for Children/CHIP),17
+PA,City of Philadelphia,Temporary Assistance for Needy Families (TANF),18
+PA,City of Philadelphia,LIHEAP,301
+PA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+PA,Custom Analysis,Child Care Subsidy (CCDF),2
+PA,Custom Analysis,Child Tax Credit (CTC),3
+PA,Custom Analysis,Earned Income Tax Credit (EITC),4
+PA,Custom Analysis,Free or Reduced Price School Meals,5
+PA,Custom Analysis,Head Start/Early Head Start,6
+PA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+PA,Custom Analysis,Section 8 Housing Voucher,8
+PA,Custom Analysis,Social Security,9
+PA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+PA,Custom Analysis,State-Funded Pre-Kindergarten,11
+PA,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+PA,Custom Analysis,Supplemental Security Income (SSI),13
+PA,Custom Analysis,Unemployment Insurance,14
+PA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+PA,Custom Analysis,Medical Assistance (Medicaid for Adults),16
+PA,Custom Analysis,Pennsylvania’s Children’s Health Insurance Program (Medicaid for Children/CHIP),17
+PA,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+RI,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+RI,Custom Analysis,Child Care Subsidy (CCDF),2
+RI,Custom Analysis,Child Tax Credit (CTC),3
+RI,Custom Analysis,Earned Income Tax Credit (EITC),4
+RI,Custom Analysis,Free or Reduced Price School Meals,5
+RI,Custom Analysis,Head Start/Early Head Start,6
+RI,Custom Analysis,Health Insurance Marketplace Subsidy,7
+RI,Custom Analysis,Section 8 Housing Voucher,8
+RI,Custom Analysis,Social Security,9
+RI,Custom Analysis,Social Security Disability Insurance (SSDI),10
+RI,Custom Analysis,State-Funded Pre-Kindergarten,11
+RI,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+RI,Custom Analysis,Supplemental Security Income (SSI),13
+RI,Custom Analysis,Unemployment Insurance,14
+RI,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+RI,Custom Analysis,RI Medical Assistance Program (Medicaid for Adults),16
+RI,Custom Analysis,RIte Care (Medicaid for Children/CHIP),17
+RI,Custom Analysis,FIP - Family Independence Program (TANF),18
+SC,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+SC,Custom Analysis,Child Care Subsidy (CCDF),2
+SC,Custom Analysis,Child Tax Credit (CTC),3
+SC,Custom Analysis,Earned Income Tax Credit (EITC),4
+SC,Custom Analysis,Free or Reduced Price School Meals,5
+SC,Custom Analysis,Head Start/Early Head Start,6
+SC,Custom Analysis,Health Insurance Marketplace Subsidy,7
+SC,Custom Analysis,Section 8 Housing Voucher,8
+SC,Custom Analysis,Social Security,9
+SC,Custom Analysis,Social Security Disability Insurance (SSDI),10
+SC,Custom Analysis,State-Funded Pre-Kindergarten,11
+SC,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+SC,Custom Analysis,Supplemental Security Income (SSI),13
+SC,Custom Analysis,Unemployment Insurance,14
+SC,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+SC,Custom Analysis,Healthy Connections (Medicaid for Adults),16
+SC,Custom Analysis,South Carolina Healthy Connections (Medicaid for Children/CHIP),17
+SC,Custom Analysis,Family Independence Program (TANF),18
+SD,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+SD,Custom Analysis,Child Care Subsidy (CCDF),2
+SD,Custom Analysis,Child Tax Credit (CTC),3
+SD,Custom Analysis,Earned Income Tax Credit (EITC),4
+SD,Custom Analysis,Free or Reduced Price School Meals,5
+SD,Custom Analysis,Head Start/Early Head Start,6
+SD,Custom Analysis,Health Insurance Marketplace Subsidy,7
+SD,Custom Analysis,Section 8 Housing Voucher,8
+SD,Custom Analysis,Social Security,9
+SD,Custom Analysis,Social Security Disability Insurance (SSDI),10
+SD,Custom Analysis,State-Funded Pre-Kindergarten,11
+SD,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+SD,Custom Analysis,Supplemental Security Income (SSI),13
+SD,Custom Analysis,Unemployment Insurance,14
+SD,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+SD,Custom Analysis,Medicaid for Adults,16
+SD,Custom Analysis,South Dakota Children's Health Insurance Program (Medicaid for Children/CHIP),17
+SD,Custom Analysis,Temporary Assistance for Needy Families (TANF),18
+TN,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+TN,Custom Analysis,Child Care Subsidy (CCDF),2
+TN,Custom Analysis,Child Tax Credit (CTC),3
+TN,Custom Analysis,Earned Income Tax Credit (EITC),4
+TN,Custom Analysis,Free or Reduced Price School Meals,5
+TN,Custom Analysis,Head Start/Early Head Start,6
+TN,Custom Analysis,Health Insurance Marketplace Subsidy,7
+TN,Custom Analysis,Section 8 Housing Voucher,8
+TN,Custom Analysis,Social Security,9
+TN,Custom Analysis,Social Security Disability Insurance (SSDI),10
+TN,Custom Analysis,State-Funded Pre-Kindergarten,11
+TN,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+TN,Custom Analysis,Supplemental Security Income (SSI),13
+TN,Custom Analysis,Unemployment Insurance,14
+TN,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+TN,Custom Analysis,TennCare (Medicaid for Adults),16
+TN,Custom Analysis,CoverKids (Medicaid for Children/CHIP),17
+TN,Custom Analysis,Families First (TANF),18
+TX,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+TX,Custom Analysis,Child Care Subsidy (CCDF),2
+TX,Custom Analysis,Child Tax Credit (CTC),3
+TX,Custom Analysis,Earned Income Tax Credit (EITC),4
+TX,Custom Analysis,Free or Reduced Price School Meals,5
+TX,Custom Analysis,Head Start/Early Head Start,6
+TX,Custom Analysis,Health Insurance Marketplace Subsidy,7
+TX,Custom Analysis,Section 8 Housing Voucher,8
+TX,Custom Analysis,Social Security,9
+TX,Custom Analysis,Social Security Disability Insurance (SSDI),10
+TX,Custom Analysis,State-Funded Pre-Kindergarten,11
+TX,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+TX,Custom Analysis,Supplemental Security Income (SSI),13
+TX,Custom Analysis,Unemployment Insurance,14
+TX,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+TX,Custom Analysis,STAR+PLUS (Medicaid for Adults),16
+TX,Custom Analysis,Medicaid for Children/CHIP,17
+TX,Custom Analysis,Texas Works (TANF),18
+TX,Empower House,Child and Dependent Care Tax Credit (CDCTC),1
+TX,Empower House,Child Care Subsidy (CCDF),2
+TX,Empower House,Child Tax Credit (CTC),3
+TX,Empower House,Earned Income Tax Credit (EITC),4
+TX,Empower House,Free or Reduced Price School Meals,5
+TX,Empower House,Head Start/Early Head Start,6
+TX,Empower House,Health Insurance Marketplace Subsidy,7
+TX,Empower House,Section 8 Housing Voucher,8
+TX,Empower House,Social Security,9
+TX,Empower House,Social Security Disability Insurance (SSDI),10
+TX,Empower House,State-Funded Pre-Kindergarten,11
+TX,Empower House,Supplemental Nutrition Assistance Program (SNAP),12
+TX,Empower House,Supplemental Security Income (SSI),13
+TX,Empower House,Unemployment Insurance,14
+TX,Empower House,"Women, Infants and Children Nutrition Program (WIC)",15
+TX,Empower House,STAR+PLUS (Medicaid for Adults),16
+TX,Empower House,Medicaid for Children/CHIP,17
+TX,Empower House,Texas Works (TANF),18
+UT,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+UT,Custom Analysis,Child Care Subsidy (CCDF),2
+UT,Custom Analysis,Child Tax Credit (CTC),3
+UT,Custom Analysis,Earned Income Tax Credit (EITC),4
+UT,Custom Analysis,Free or Reduced Price School Meals,5
+UT,Custom Analysis,Head Start/Early Head Start,6
+UT,Custom Analysis,Health Insurance Marketplace Subsidy,7
+UT,Custom Analysis,Section 8 Housing Voucher,8
+UT,Custom Analysis,Social Security,9
+UT,Custom Analysis,Social Security Disability Insurance (SSDI),10
+UT,Custom Analysis,State-Funded Pre-Kindergarten,11
+UT,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+UT,Custom Analysis,Supplemental Security Income (SSI),13
+UT,Custom Analysis,Unemployment Insurance,14
+UT,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+UT,Custom Analysis,Medicaid for Adults,16
+UT,Custom Analysis,Medicaid for Children/CHIP,17
+UT,Custom Analysis,Family Employment Program (TANF),18
+VA,ARISE Alexandria,Child and Dependent Care Tax Credit (CDCTC),1
+VA,ARISE Alexandria,Child Care Subsidy (CCDF),2
+VA,ARISE Alexandria,Child Tax Credit (CTC),3
+VA,ARISE Alexandria,Earned Income Tax Credit (EITC),4
+VA,ARISE Alexandria,Free or Reduced Price School Meals,5
+VA,ARISE Alexandria,Head Start/Early Head Start,6
+VA,ARISE Alexandria,Health Insurance Marketplace Subsidy,7
+VA,ARISE Alexandria,Section 8 Housing Voucher,8
+VA,ARISE Alexandria,Social Security,9
+VA,ARISE Alexandria,Social Security Disability Insurance (SSDI),10
+VA,ARISE Alexandria,State-Funded Pre-Kindergarten,11
+VA,ARISE Alexandria,Supplemental Nutrition Assistance Program (SNAP),12
+VA,ARISE Alexandria,Supplemental Security Income (SSI),13
+VA,ARISE Alexandria,Unemployment Insurance,14
+VA,ARISE Alexandria,"Women, Infants and Children Nutrition Program (WIC)",15
+VA,ARISE Alexandria,Cardinal Care (Medicaid for Adults),16
+VA,ARISE Alexandria,Family Access to Medical Insurance Security (Medicaid for Children/CHIP),17
+VA,ARISE Alexandria,"VIEW - Virginia Initiative for Employment, Not Welfare (TANF)",18
+VA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+VA,Custom Analysis,Child Care Subsidy (CCDF),2
+VA,Custom Analysis,Child Tax Credit (CTC),3
+VA,Custom Analysis,Earned Income Tax Credit (EITC),4
+VA,Custom Analysis,Free or Reduced Price School Meals,5
+VA,Custom Analysis,Head Start/Early Head Start,6
+VA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+VA,Custom Analysis,Section 8 Housing Voucher,8
+VA,Custom Analysis,Social Security,9
+VA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+VA,Custom Analysis,State-Funded Pre-Kindergarten,11
+VA,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+VA,Custom Analysis,Supplemental Security Income (SSI),13
+VA,Custom Analysis,Unemployment Insurance,14
+VA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+VA,Custom Analysis,Cardinal Care (Medicaid for Adults),16
+VA,Custom Analysis,Family Access to Medical Insurance Security (Medicaid for Children/CHIP),17
+VA,Custom Analysis,"VIEW - Virginia Initiative for Employment, Not Welfare (TANF)",18
+VT,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+VT,Custom Analysis,Child Care Subsidy (CCDF),2
+VT,Custom Analysis,Child Tax Credit (CTC),3
+VT,Custom Analysis,Earned Income Tax Credit (EITC),4
+VT,Custom Analysis,Free or Reduced Price School Meals,5
+VT,Custom Analysis,Head Start/Early Head Start,6
+VT,Custom Analysis,Health Insurance Marketplace Subsidy,7
+VT,Custom Analysis,Section 8 Housing Voucher,8
+VT,Custom Analysis,Social Security,9
+VT,Custom Analysis,Social Security Disability Insurance (SSDI),10
+VT,Custom Analysis,State-Funded Pre-Kindergarten,11
+VT,Custom Analysis,3SquaresVT (SNAP),12
+VT,Custom Analysis,Supplemental Security Income (SSI),13
+VT,Custom Analysis,Unemployment Insurance,14
+VT,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+VT,Custom Analysis,Green Mountain Care (Medicaid for Adults),16
+VT,Custom Analysis,Dr. Dynasaur (Medicaid for Children/CHIP),17
+VT,Custom Analysis,ANFC - Aid to Needy Families with Children (TANF),18
+WA,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+WA,Custom Analysis,Working Connections Child Care Program (CCDF),2
+WA,Custom Analysis,Child Tax Credit (CTC),3
+WA,Custom Analysis,Earned Income Tax Credit (EITC),4
+WA,Custom Analysis,Free or Reduced Price School Meals,5
+WA,Custom Analysis,Head Start/Early Head Start,6
+WA,Custom Analysis,Health Insurance Marketplace Subsidy,7
+WA,Custom Analysis,Section 8 Housing Voucher,8
+WA,Custom Analysis,Social Security,9
+WA,Custom Analysis,Social Security Disability Insurance (SSDI),10
+WA,Custom Analysis,State-Funded Pre-Kindergarten,11
+WA,Custom Analysis,Basic Food Program (SNAP),12
+WA,Custom Analysis,Supplemental Security Income (SSI),13
+WA,Custom Analysis,Unemployment Insurance,14
+WA,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+WA,Custom Analysis,Apple Health for Adults (Medicaid for Adults),16
+WA,Custom Analysis,Apple Health for Kids (Medicaid for Children/CHIP),17
+WA,Custom Analysis,WorkFirst (TANF),18
+WA,Seattle Workforce Development,Child and Dependent Care Tax Credit (CDCTC),1
+WA,Seattle Workforce Development,Working Connections Child Care Program (CCDF),2
+WA,Seattle Workforce Development,Child Tax Credit (CTC),3
+WA,Seattle Workforce Development,Earned Income Tax Credit (EITC),4
+WA,Seattle Workforce Development,Free or Reduced Price School Meals,5
+WA,Seattle Workforce Development,Head Start/Early Head Start,6
+WA,Seattle Workforce Development,Health Insurance Marketplace Subsidy,7
+WA,Seattle Workforce Development,Section 8 Housing Voucher,8
+WA,Seattle Workforce Development,Social Security,9
+WA,Seattle Workforce Development,Social Security Disability Insurance (SSDI),10
+WA,Seattle Workforce Development,State-Funded Pre-Kindergarten,11
+WA,Seattle Workforce Development,Basic Food Program (SNAP),12
+WA,Seattle Workforce Development,Supplemental Security Income (SSI),13
+WA,Seattle Workforce Development,Unemployment Insurance,14
+WA,Seattle Workforce Development,"Women, Infants and Children Nutrition Program (WIC)",15
+WA,Seattle Workforce Development,Apple Health for Adults (Medicaid for Adults),16
+WA,Seattle Workforce Development,Apple Health for Kids (Medicaid for Children/CHIP),17
+WA,Seattle Workforce Development,WorkFirst (TANF),18
+WI,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+WI,Custom Analysis,Child Care Subsidy (CCDF),2
+WI,Custom Analysis,Child Tax Credit (CTC),3
+WI,Custom Analysis,Earned Income Tax Credit (EITC),4
+WI,Custom Analysis,Free or Reduced Price School Meals,5
+WI,Custom Analysis,Head Start/Early Head Start,6
+WI,Custom Analysis,Health Insurance Marketplace Subsidy,7
+WI,Custom Analysis,Section 8 Housing Voucher,8
+WI,Custom Analysis,Social Security,9
+WI,Custom Analysis,Social Security Disability Insurance (SSDI),10
+WI,Custom Analysis,State-Funded Pre-Kindergarten,11
+WI,Custom Analysis,FoodShare (SNAP),12
+WI,Custom Analysis,Supplemental Security Income (SSI),13
+WI,Custom Analysis,Unemployment Insurance,14
+WI,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+WI,Custom Analysis,BadgerCare (Medicaid for Adults),16
+WI,Custom Analysis,BadgerCare Plus (Medicaid for Children/CHIP),17
+WI,Custom Analysis,Wisconsin Works (TANF),18
+WV,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+WV,Custom Analysis,Child Care Subsidy (CCDF),2
+WV,Custom Analysis,Child Tax Credit (CTC),3
+WV,Custom Analysis,Earned Income Tax Credit (EITC),4
+WV,Custom Analysis,Free or Reduced Price School Meals,5
+WV,Custom Analysis,Head Start/Early Head Start,6
+WV,Custom Analysis,Health Insurance Marketplace Subsidy,7
+WV,Custom Analysis,Section 8 Housing Voucher,8
+WV,Custom Analysis,Social Security,9
+WV,Custom Analysis,Social Security Disability Insurance (SSDI),10
+WV,Custom Analysis,State-Funded Pre-Kindergarten,11
+WV,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+WV,Custom Analysis,Supplemental Security Income (SSI),13
+WV,Custom Analysis,Unemployment Insurance,14
+WV,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+WV,Custom Analysis,Medicaid for Adults,16
+WV,Custom Analysis,West Virginia Children's Health Insurance Program (Medicaid for Children/CHIP),17
+WV,Custom Analysis,West Virginia Works (TANF),18
+WY,Custom Analysis,Child and Dependent Care Tax Credit (CDCTC),1
+WY,Custom Analysis,Child Care Subsidy (CCDF),2
+WY,Custom Analysis,Child Tax Credit (CTC),3
+WY,Custom Analysis,Earned Income Tax Credit (EITC),4
+WY,Custom Analysis,Free or Reduced Price School Meals,5
+WY,Custom Analysis,Head Start/Early Head Start,6
+WY,Custom Analysis,Health Insurance Marketplace Subsidy,7
+WY,Custom Analysis,Section 8 Housing Voucher,8
+WY,Custom Analysis,Social Security,9
+WY,Custom Analysis,Social Security Disability Insurance (SSDI),10
+WY,Custom Analysis,State-Funded Pre-Kindergarten,11
+WY,Custom Analysis,Supplemental Nutrition Assistance Program (SNAP),12
+WY,Custom Analysis,Supplemental Security Income (SSI),13
+WY,Custom Analysis,Unemployment Insurance,14
+WY,Custom Analysis,"Women, Infants and Children Nutrition Program (WIC)",15
+WY,Custom Analysis,Equality Care (Medicaid for Adults),16
+WY,Custom Analysis,Kid Care CHIP (Medicaid for Children/CHIP),17
+WY,Custom Analysis,POWER - Personal Opportunities With Employment Responsibility (TANF),18

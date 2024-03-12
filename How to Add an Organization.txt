@@ -1,0 +1,16 @@
+how to add a new organization
+*organization list in ui
+*create state specific program list.do fixes state program names, adds org specific benfits & creates "ProgramList_StateSpecific.csv"
+*organization_list.csv <- add to list
+
+name of snap and childcare programs inside ui.r
+
+change the names of the programs to generic names b4 ben calc runs  in server.r
+
+update list of benefit waivers
+
+change list of state and/or pilot specific names back to actual names at end of server.r
+
+
+State specific names currently in there:
+WA, NY, CA, IL, VA (none), GA, TX( none)
