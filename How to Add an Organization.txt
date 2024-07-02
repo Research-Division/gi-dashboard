@@ -1,4 +1,5 @@
 how to add a new organization
+*7/2/2024
 *organization list in ui
 *create state specific program list.do fixes state program names, adds org specific benfits & creates "ProgramList_StateSpecific.csv"
 *organization_list.csv <- add to list
